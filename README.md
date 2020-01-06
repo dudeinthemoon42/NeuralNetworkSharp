@@ -1,0 +1,1 @@
+"Yet another shitty neural network with backpropagation done with C# / .NET Core. This is mostly just a hobby project to better learn how neural networks work with a real live network and training data. The data I will use for training is TBD but most likely will be handwritten digit recognition." 
